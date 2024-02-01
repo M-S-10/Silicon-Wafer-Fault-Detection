@@ -36,6 +36,7 @@ The trained KNN model demonstrated promising results in classifying silicon wafe
 ## Requirements
 - Python 3.x
 - Required Python packages: pandas, numpy, scikit-learn
+- Raw DataSet -> Wafer-dataset on #kaggle via @KaggleDatasets https://www.kaggle.com/datasets/himanshunayal/waferdataset?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=twitter 
 
 ## Getting Started
 1. Clone the repository:
